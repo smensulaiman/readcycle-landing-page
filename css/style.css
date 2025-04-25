@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #4294E3;
-    --secondary: #8F12FD;
+    --primary: #0a6d3a;
+    --secondary: #35875b;
     --light: #F0F6FF;
     --dark: #262B47;
 }
@@ -332,7 +332,7 @@ h6,
     height: 100%;
     top: 0;
     left: 0;
-    background: url(../img/screenshot-frame.png) center center no-repeat;
+    /*background: url(../img/screenshot-frame.png) center center no-repeat;*/
     background-size: 253px 500px;
     z-index: 1;
 }
